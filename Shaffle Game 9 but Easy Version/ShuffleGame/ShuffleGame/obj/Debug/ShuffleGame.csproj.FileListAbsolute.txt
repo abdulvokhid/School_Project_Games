@@ -1,0 +1,11 @@
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.pdb
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.csprojAssemblyReference.cache
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Form1.resources
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Game.resources
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Properties.Resources.resources
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.csproj.GenerateResource.cache
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.csproj.CoreCompileInputs.cache
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
+D:\CZU my uniersity\CZU 2 year\1st Semestr\SW Development\Shaffle Game 9 but Easy Version\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
